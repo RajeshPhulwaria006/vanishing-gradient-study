@@ -72,16 +72,6 @@ We compare two pipelines:
 
 ---
 
-## 📉 Visualizations
-
-### Gradient Flow
-![Gradient Plot](results/gradient_plot.png)
-
-### Loss Comparison
-![Loss Plot](results/loss_plot.png)
-
----
-
 ## ⚙️ Installation
 
 ```bash
