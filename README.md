@@ -77,4 +77,3 @@ We compare two pipelines:
 ```bash
 git clone https://github.com/RajeshPhulwaria006/vanishing-gradient-study.git
 cd vanishing-gradient-study
-pip install -r requirements.txt
