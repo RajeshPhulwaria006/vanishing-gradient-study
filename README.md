@@ -75,6 +75,6 @@ We compare two pipelines:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/vanishing-gradient-study.git
+git clone https://github.com/RajeshPhulwaria006/vanishing-gradient-study.git
 cd vanishing-gradient-study
 pip install -r requirements.txt
