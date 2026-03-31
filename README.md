@@ -77,3 +77,13 @@ We compare two pipelines:
 ```bash
 git clone https://github.com/RajeshPhulwaria006/vanishing-gradient-study.git
 cd vanishing-gradient-study
+```
+
+---
+
+## 📄 Research Publication
+
+👉 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19351203.svg)](https://doi.org/10.5281/zenodo.19351203)
+
+### 📜 License
+- This work is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
